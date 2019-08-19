@@ -1,4 +1,4 @@
-# 002-demo
+# VueValidate
 
 ## Project setup
 ```
