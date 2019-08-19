@@ -1,29 +1,7 @@
 # VueValidate
 
-## Project setup
-```
-npm install
-```
+仿elementUI的表单验证组件做的一个验证组件。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+使用方式和elementUI一样
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+做开发练习使用，用到了组件间数据传递的几种方法，例 $emit、provide、props
